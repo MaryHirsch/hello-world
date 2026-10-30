@@ -1,2 +1,2 @@
-# hello-world
+# Mary repo
 Repository A
